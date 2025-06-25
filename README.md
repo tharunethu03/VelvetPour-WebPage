@@ -1,12 +1,40 @@
-# React + Vite
+# 🍸 Velvet Pour Bar Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish single-page website for a cocktail bar, built to practice animations using **GSAP**. This project was inspired by and developed while following a YouTube tutorial.
 
-Currently, two official plugins are available:
+🎥 Tutorial: [GSAP Animation Tutorial](https://youtu.be/AW1yfBKRMKc?si=59XLDT19j55AFQNr)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✨ Smooth entrance animations with GSAP
+- 🎞️ Scroll-triggered video & element animations
+- 📱 Fully responsive layout
+- 🌿 Tailwind-powered styling
+- 🔗 Sections included:
+  - Hero
+  - About
+  - The Art
+  - Menu
+  - Contact
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP (GreenSock)](https://gsap.com/)
+
+## 📦 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/tharunethu03/gsap_tut.git
+cd gsap_tut
+npm install
+npm run dev
+```
+Then open http://localhost:5173 (or the port Vite/React chooses) in your browser to view the site.
+
+## 🧠 Notes
+This project was built primarily for learning purposes, focusing on scroll-based animations and visual storytelling. Feel free to fork, explore, and customize!
