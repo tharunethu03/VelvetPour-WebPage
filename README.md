@@ -2,7 +2,7 @@
 
 A stylish single-page website for a cocktail bar, built to practice animations using **GSAP**. This project was inspired by and developed while following a YouTube tutorial.
 
-🎥 Tutorial: [GSAP Animation Tutorial](https://youtu.be/AW1yfBKRMKc?si=59XLDT19j55AFQNr)
+🎥 Tutorial: [GSAP Animation Tutorial by JavaScript Mastery](https://youtu.be/AW1yfBKRMKc?si=59XLDT19j55AFQNr)
 
 ## 🚀 Features
 
