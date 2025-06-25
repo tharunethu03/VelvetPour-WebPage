@@ -17,6 +17,8 @@ A stylish single-page website for a cocktail bar, built to practice animations u
   - Menu
   - Contact
 
+![Velvet Pour Bar Preview](./public/ss.png)
+
 ## 🛠️ Built With
 
 - [React](https://reactjs.org/)
