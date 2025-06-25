@@ -25,6 +25,17 @@ const About = () => {
         stagger: 0.02,
       })
       .from(
+        ".sub-content",
+        {
+          opacity: 0,
+          duration: 0.5,
+          yPercent: 100,
+          ease: "expo.out",
+          stagger: 0.02,
+        },
+        "-=0.8"
+      )
+      .from(
         ".top-grid div, .bottom-grid div",
         {
           opacity: 0,
