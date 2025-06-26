@@ -31,8 +31,8 @@ A stylish single-page website for a cocktail bar, built to practice animations u
 Clone the repository:
 
 ```bash
-git clone https://github.com/tharunethu03/gsap_tut.git
-cd gsap_tut
+git clone https://github.com/tharunethu03/VelvetPour-WebPage.git
+cd VelvetPour-WebPage
 npm install
 npm run dev
 ```
